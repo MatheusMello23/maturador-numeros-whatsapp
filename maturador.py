@@ -68,7 +68,7 @@ conversas = [
 
 
 #LISTA DE TELEFONES PARA ENVIAR A MENSAGEM 
-telefones = ['3291184091','32984824858','3291004082','3291178116','3284808709','3291004082','Matheus Empresa']
+telefones = ['Adicione os números aqui',]
 #ELE VAI CHAMAR OS TELEFONES DE FORMA ALEATORIA
 
 
